@@ -1,0 +1,12 @@
+# Ignore datasets
+Datasets/
+Figures/
+models/
+Merging/
+
+# Ignore large files
+*.h5
+
+# Ignore other folders you don't want to track
+*.pyc
+__pycache__/
